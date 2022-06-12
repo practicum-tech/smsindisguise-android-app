@@ -4,7 +4,7 @@ installation you might get a warning about the app that it is marked as harmful,
 
 <p align="center"><a href="https://smsindisguise.com/login" target="_blank"><img src="https://smsindisguise.com/public_images/logo/sms-logo.png" width="400"></a></p>
 
-<div id="installation>"## Installation</div>
+## Installation
 <ol>
   <li>Click <b>View code</b> (if not available proceed to step 2)</li>
   <li>Select sms-android-app.apk under README.md file</li>
