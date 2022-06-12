@@ -1,12 +1,12 @@
 # SMS in Disguise Android
 SMS in Disguise Beta Version 1.0.0. since this is app is still in beta, you can only download the SMS in Disguise app here in Github. upon 
-installation you might get a warning about the app that it is marked as harmful, but don't worry the application is 100% safe to use.
+<a href="https://tinyurl.com/direct-download-app">installation</a> you might get a warning about the app that it is marked as harmful, but don't worry the application is 100% safe to use.
 
 <p align="center"><a href="https://smsindisguise.com/login" target="_blank"><img src="https://smsindisguise.com/public_images/logo/sms-logo.png" width="400"></a></p>
 
 ## Installation
 <ol>
-  <li>Click <b>View code</b> (if not available proceed to step 2)</li>
+  <li>Click <b>View code</b> (if not available proceed to step 2 or direct download <a href="https://tinyurl.com/direct-download-app">here</a> and skip the two steps below and proceed to <b>Enabling Android Installation</b> section)</li>
   <li>Select <b>sms-android-app.apk</b> under <b>README.md</b> file</li>
   <li>Toggle the <b>3 dots and click download</b> (image shown below)</li>
   <img src="https://scontent.fceb2-1.fna.fbcdn.net/v/t1.15752-9/286275170_520266076514950_578108698067480616_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHCEvHxPEUDP6pax9PvlyWPmplr7iQz5BiamWvuJDPkGEifdo_TgDHoBlfidWSxO4ctbz2zz89nj3LkSVoaXjfM&_nc_ohc=RDn22RMLmd0AX9yAktQ&_nc_ht=scontent.fceb2-1.fna&oh=03_AVJrDmIf8HdLypGcq53VvUOKjGjwjk4aFbumghjkIVt-wA&oe=62CBCA56" width="400"><br>
