@@ -7,8 +7,8 @@ installation you might get a warning about the app that it is marked as harmful,
 ## Installation
 <ol>
   <li>Click <b>View code</b> (if not available proceed to step 2)</li>
-  <li>Select sms-android-app.apk under README.md file</li>
-  <li>Toggle the 3 dots and click download (image shown below)</li>
+  <li>Select <b>sms-android-app.apk</b> under <b>README.md</b> file</li>
+  <li>Toggle the <b>3 dots and click download</b> (image shown below)</li>
   <img src="https://scontent.fceb2-1.fna.fbcdn.net/v/t1.15752-9/286275170_520266076514950_578108698067480616_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHCEvHxPEUDP6pax9PvlyWPmplr7iQz5BiamWvuJDPkGEifdo_TgDHoBlfidWSxO4ctbz2zz89nj3LkSVoaXjfM&_nc_ohc=RDn22RMLmd0AX9yAktQ&_nc_ht=scontent.fceb2-1.fna&oh=03_AVJrDmIf8HdLypGcq53VvUOKjGjwjk4aFbumghjkIVt-wA&oe=62CBCA56" width="400"><br>
   <h2>Enabling android installation</h2> 
   <li>Go to your phone’s <b>Settings</b></li>
@@ -17,7 +17,7 @@ installation you might get a warning about the app that it is marked as harmful,
   <li>Select the browser (e.g., Chrome or Firefox) you want to download the APK files from.</li>
   <img src="https://s23429.pcdn.co/wp-content/uploads/2016/08/andriod-install-unknown-apps.png" width="400">
   <li>Toggle <b>Allow app installs on</b>.</li>
-  <li>Locate the sms-android-app.apk file and install.</li>
+  <li>Locate the <b>sms-android-app.apk</b> file in your local storage and click to install.</li>
  </ol>
  
  source: <a href="https://www.expressvpn.com/support/vpn-setup/enable-apk-installs-android/">https://www.expressvpn.com/support/vpn-setup/enable-apk-installs-android/</a>
